@@ -19,8 +19,7 @@ Config files to my github profile
 ![Ashutosh's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=137ashu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&dates=58A6FF&stroke=58A6FF)
 
 
-## 📝 Languages used :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=137ashu&show_icons=true&locale=en&layout=compact" alt="137ashu" /></p>
+
 
 
 
